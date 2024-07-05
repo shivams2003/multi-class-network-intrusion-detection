@@ -63,7 +63,7 @@ The models were evaluated using metrics such as accuracy, F1 score, precision, r
 - **ID3**: Accuracy: 99.85%, F1 Score: 99.85%
 - **MLP**: Accuracy: 99.53%, F1 Score: 99.50%
 
-## Contributing
+## Contributions
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
 
 ## Acknowledgments
